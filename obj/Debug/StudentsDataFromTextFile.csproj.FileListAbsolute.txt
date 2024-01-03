@@ -1,0 +1,7 @@
+D:\mphasis\3rd jan\StudentsDataFromTextFile\StudentsDataFromTextFile\bin\Debug\StudentsDataFromTextFile.exe.config
+D:\mphasis\3rd jan\StudentsDataFromTextFile\StudentsDataFromTextFile\bin\Debug\StudentsDataFromTextFile.exe
+D:\mphasis\3rd jan\StudentsDataFromTextFile\StudentsDataFromTextFile\bin\Debug\StudentsDataFromTextFile.pdb
+D:\mphasis\3rd jan\StudentsDataFromTextFile\StudentsDataFromTextFile\obj\Debug\StudentsDataFromTextFile.csproj.AssemblyReference.cache
+D:\mphasis\3rd jan\StudentsDataFromTextFile\StudentsDataFromTextFile\obj\Debug\StudentsDataFromTextFile.csproj.CoreCompileInputs.cache
+D:\mphasis\3rd jan\StudentsDataFromTextFile\StudentsDataFromTextFile\obj\Debug\StudentsDataFromTextFile.exe
+D:\mphasis\3rd jan\StudentsDataFromTextFile\StudentsDataFromTextFile\obj\Debug\StudentsDataFromTextFile.pdb
